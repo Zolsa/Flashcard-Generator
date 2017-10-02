@@ -1,0 +1,10 @@
+
+Subject: Religion
+Question: What is the main religion of Indonesia?
+Answer: Muslim
+Subject: Music
+Question: ... is the guitar player for the Rolling Stones.
+Answer: Mick Jagger
+Subject: Cops
+Question: Where are the cops?
+Answer: They are right here
