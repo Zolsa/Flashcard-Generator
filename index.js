@@ -110,7 +110,7 @@ var runGame = function() {
 				var waitTill1 = new Date(new Date().getTime() + 5 * 1000);
 				while(waitTill1 > new Date()){};
 				console.log(questionArray[i+2]);
-				waitTill1 = new Date(new Date().getTime() + 5 * 1000);
+				waitTill1 = new Date(new Date().getTime() + 2 * 1000);
 				while(waitTill1 > new Date()){};
 			}
 
